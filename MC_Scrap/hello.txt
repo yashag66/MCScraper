@@ -1,0 +1,1 @@
+{'Open Price': '75.45', 'High Price': '76.85', 'Low Price': '73.70', 'Prev. Close': '75.45', 'Average Price': '75.38', 'No. of Contracts Traded': '3', 'Turnover (Rs. In Lakhs)': '11,623.67', 'Market Lot': '4100', 'Open Interest': '50,663,700', 'Open Interest Change': '-1,033,200', 'Open Interest Change %': '-2.00', 'date': '2020:04:15 16:17:11'}
